@@ -1,4 +1,4 @@
-# Spectacles brokers
+# Spectacles brokers ([moved](https://github.com/spec-tacles/spectacles.js))
 
 A unified event publishing API to allow simple and powerful communication between services. Available brokers:
 
